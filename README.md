@@ -1,6 +1,7 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=32&duration=1200&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Vit%C3%B3ria+Nascimento;System+Analyst+%7C+Cybersecurity)](https://linktr.ee/0xChix0k)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=40&duration=1000&pause=1000&color=fff&center=true&vCenter=true&multiline=true&repeat=false&width=830&height=60&lines=Vit%C3%B3ria+Nascimento)](https://linktr.ee/0xChix0k) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1000&pause=10&color=fff&center=true&vCenter=true&multiline=true&repeat=false&width=830&height=100&lines=Analyst+System+Plen+%7C+Cybersecurity)](https://linktr.ee/0xChix0k)
 
 </div>
 
