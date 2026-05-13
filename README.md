@@ -31,10 +31,7 @@
   <p align='left'>📕 SENAI - Desenvolvimento Full Stack - 14/15</p>
 </div>
 <hr>
-<div style='display: inline-block;' align='center'>
-  <h3>Projetos mais queridos:</h3>
-  
-</div>
+
 <a><img src='https://komarev.com/ghpvc/?username=vitorianascimento-sistemas'/></a>
 
 
