@@ -17,7 +17,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-111?style=for-the-badge&logo=telegram)](https://t.me/VRafaelaDev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vitoria-nascimento-/)
-[![Gmail](https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail)](mailto:rafavitorianascimento@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail)](mailto:vitorianascimento@brightbee.com.br)
 
 </div>
 
