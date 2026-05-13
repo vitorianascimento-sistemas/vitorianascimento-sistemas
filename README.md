@@ -1,4 +1,7 @@
-<h3 align='center'>Olá, sou Vitória Nascimento 👩🏾‍💻</h3> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=40&duration=1000&pause=1000&color=fff&center=true&vCenter=true&multiline=true&repeat=false&width=830&height=60&lines=Vit%C3%B3ria+Nascimento)](https://linktr.ee/0xChix0k)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1000&pause=10&color=fff&center=true&vCenter=true&multiline=true&repeat=false&width=830&height=100&lines=Analyst+System+Plen)](https://linktr.ee/0xChix0k)
+
 <hr>
 <div align='center'>
   <h3>Sobre mim</h3>
@@ -10,11 +13,6 @@
   </div>
 </div>
 <br>
-<div align='center'>
-  <a href='https://github.com/vitorianascimento-sistemas/'></a>
-  <img height='180em' src='https://github-readme-stats.vercel.app/api?username=vitorianascimento-sistemas&show_icons=true&theme=dark#gh-dark-mode-only&include_all_comits=true&count_private='>
-  <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=vitorianascimento-sistemas&layout=compact&langs_count=6&theme=dark#gh-dark-mode-only'>
-</div>
 <div style='display: inline-block;' align='center'>
   <h3>Linguagens que estudo:</h3>
   <img align='center' height='40' width='50' alt='Vih-HTML' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
