@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=vitorianascimento-sistemas&theme=tokyonight&hide_border=true"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vitorianascimento-sistemas&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
