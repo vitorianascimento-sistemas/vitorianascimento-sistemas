@@ -49,16 +49,6 @@
 
 ---
 
-## 🔥 Streak
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vitorianascimento-sistemas&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=vitorianascimento-sistemas&color=blueviolet&style=for-the-badge)
