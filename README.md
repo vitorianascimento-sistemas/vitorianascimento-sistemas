@@ -44,7 +44,7 @@
 
 - 📘 Gestão de TI — UNIP ✅
 - 📗 Licenciatura em Computação — IFPI (8/8)
-- 📕 Desenvolvimento Full Stack — SENAI (14/15)
+- 📕 Desenvolvimento Full Stack — SENAI
 - 🔬 Residência em Sistemas Embarcados
 
 ---
