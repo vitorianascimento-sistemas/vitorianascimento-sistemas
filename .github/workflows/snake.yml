@@ -14,18 +14,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Generate Snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: vitorianascimento-sistemas
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.svg
 
-      - name: Deploy Snake
+      - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
