@@ -50,5 +50,13 @@
 ---
 
 <div align="center">
+
+<img src="https://streak-stats.demolab.com?user=vitorianascimento-sistemas&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/vitorianascimento-sistemas/vitorianascimento-sistemas/output/github-contribution-grid-snake-dark.svg" />
 </div>
