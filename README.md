@@ -50,5 +50,5 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vitorianascimento-sistemas/vitorianascimento-sistemas/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/vitorianascimento-sistemas/vitorianascimento-sistemas/output/github-contribution-grid-snake-dark.svg?v=2" />
 </div>
