@@ -50,8 +50,5 @@
 ---
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/vitorianascimento-sistemas/vitorianascimento-sistemas/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
+  <img src="https://raw.githubusercontent.com/vitorianascimento-sistemas/vitorianascimento-sistemas/output/github-contribution-grid-snake-dark.svg" />
 </div>
-
